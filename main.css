@@ -37,18 +37,6 @@ nav{
   padding-top: 5px;
 }
 
-.rotateimg90 {
-  -webkit-transform: rotate(90deg);
-  -moz-transform: rotate(90deg);
-  -ms-transform: rotate(90deg);
-  -o-transform: rotate(90deg);
-  transform: rotate(90deg);
-  position: relative;
-  top: 50px;
-  margin-top: 15px;
-  margin-right: 70px;
-}
-
 .resume {
   text-align: center;
 }
